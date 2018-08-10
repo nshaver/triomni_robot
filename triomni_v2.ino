@@ -7,8 +7,8 @@
 #include <ESP8266mDNS.h>
 #include <ESP8266HTTPUpdateServer.h>
 const char* host= "triomni";
-const char* ssid = "Tux24";
-const char* password = "a47a47a47a";
+const char* ssid = "yourssid";
+const char* password = "yourwifipassword";
 const char* apssid = "triomni";
 const char* appassword = "a47a47a47a";
 const int port = 9876; // and this port
